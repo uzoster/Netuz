@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@200&family=Philosopher:ital,wght@0,700;1,700&display=swap");
+.MenuItem:active {
+  background: #443d7f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none !important;
+}
+
+@media (max-width: 1920px) {
+  .info_art_all_part_info_part {
+    width: 100%;
+    height: auto;
+  }
+  .info_art_all_part_info_part .top_art_all_part {
+    width: 100%;
+    height: auto;
+  }
+  .info_art_all_part_info_part .top_art_all_part h2 {
+    color: #443d7f;
+    text-align: center;
+  }
+}/*# sourceMappingURL=yangiik.css.map */
